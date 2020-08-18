@@ -328,7 +328,7 @@ a.scrolldown {
 
 .header-area {
     position: relative;
-    background: url('images/DecoderDish.png') no-repeat scroll center center / cover;
+    background: url('/images/DecoderDish.png') no-repeat scroll center center / cover;
     width: 100%;
     height: 100%;
 }
@@ -351,7 +351,7 @@ a.scrolldown {
 }
 
 .site2 .header-area {
-    background-image: url('images/header-bg-2.jpg');
+    background-image: url('/images/DecoderDish.png');
 }
 
 .header-area .header-text .header-title {
